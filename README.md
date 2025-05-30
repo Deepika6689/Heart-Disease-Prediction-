@@ -4,9 +4,7 @@ This project focuses on building a heart disease prediction application using ad
 
 ----------------------------------------
 
-A machine learning model to predict the presence of heart disease using patient health data. This project leverages Scikit-learn, Python, and real-world datasets to provide accurate predictions and insights.
 
--------------------------
 
 ## 🚀 Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
