@@ -1,7 +1,7 @@
-# Heart-Disease-Prediction-
-This project focuses on building a heart disease prediction application using advanced machine learning algorithms such as Random Forest, Gradient Boosting, and Logistic Regression. The system is designed to predict the likelihood of heart disease based on various patient parameters like age, blood pressure, cholesterol levels, and more.
-# Heart-Disease-Detection
 # ❤ Heart Disease Detection
+This project focuses on building a heart disease prediction application using advanced machine learning algorithms such as Random Forest, Gradient Boosting, and Logistic Regression. The system is designed to predict the likelihood of heart disease based on various patient parameters like age, blood pressure, cholesterol levels, and more.
+
+
 ----------------------------------------
 
 A machine learning model to predict the presence of heart disease using patient health data. This project leverages Scikit-learn, Python, and real-world datasets to provide accurate predictions and insights.
